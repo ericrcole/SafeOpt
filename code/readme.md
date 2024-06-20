@@ -5,3 +5,5 @@
 **/in_vivo_experiment/safe_opt_on_table.m:** Code used to select optimal parameters for real-time experiments, given a .xlsx of SOR task values
 
 **/safe_opt_memory/:** Key subfolder containing functions that implement SAFE-OPT
+
+**/plot_opt_results_2.m:** Generates validation results (figure 6)
