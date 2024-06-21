@@ -8,3 +8,5 @@ This directory implements a Bayesian optimization algorithm with learnable safet
 **Data:** Directory containing raw data sheets with SOR task data/stimulation parameters, and saved/processed modeling results
 
 **Tools:** Algorithm dependencies 
+
+To use: make sure to add whole root repo directory + subfolders before running individual scripts
