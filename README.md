@@ -9,4 +9,4 @@ This directory implements a Bayesian optimization algorithm with learnable safet
 
 **Tools:** Algorithm dependencies 
 
-To use: make sure to add whole root repo directory + subfolders before running individual scripts
+To use: make sure to add whole root repo directory + subfolders to the MATLAB path before running individual scripts
