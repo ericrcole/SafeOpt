@@ -1,4 +1,4 @@
-# SafeOpt
+# SAFE-OPT
 Code and data for the paper "SAFE-OPT: A Bayesian optimization algorithm for learning optimal deep brain stimulation parameters with safety constraints"
 
 This directory implements a Bayesian optimization algorithm with learnable safety constraints for the automatic optimization of stimulation parameters.
